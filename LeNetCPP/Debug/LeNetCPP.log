@@ -1,0 +1,6 @@
+﻿  MY.cpp
+e:\majorstudy\deeplearn\lenetcpp\lenetcpp\my.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+e:\majorstudy\deeplearn\lenetcpp\lenetcpp\my.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+e:\majorstudy\deeplearn\lenetcpp\lenetcpp\my.cpp(100): warning C4715: “DActFun”: 不是所有的控件路径都返回值
+e:\majorstudy\deeplearn\lenetcpp\lenetcpp\my.cpp(86): warning C4715: “ActFun”: 不是所有的控件路径都返回值
+  LeNetCPP.vcxproj -> E:\majorstudy\deeplearn\LeNetCPP\Debug\LeNetCPP.exe
